@@ -1,0 +1,3 @@
+crewai
+python-telegram-bot
+requests
